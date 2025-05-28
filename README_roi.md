@@ -8,7 +8,7 @@
 
 ## 1. Project Evolution & Business Problem
 
-This project is an advancement of earlier explorations into ad optimization. While my initial **[Bandit vs. A/B Test for Clicks project]([Link to your FIRST Bandit GitHub Repo])** demonstrated how bandits can increase click-through rates, real-world marketing success is ultimately measured in **profitability and Return on Investment (ROI)**.
+This project is an advancement of earlier explorations into ad optimization. While my initial **[Bandit vs. A/B Test for Clicks project]([https://github.com/ColbyRReichenbach/Self-Optimizing-Ad-Campaign])** demonstrated how bandits can increase click-through rates, real-world marketing success is ultimately measured in **profitability and Return on Investment (ROI)**.
 
 Traditional A/B tests, even when optimizing for clicks, can be suboptimal for profit because:
 * They don't inherently account for varying costs per impression/click or differing conversion values for different ad creatives.
