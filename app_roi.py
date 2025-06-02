@@ -198,7 +198,7 @@ if st.sidebar.button("Run ROI Optimization Simulations"):
 
     mean_epsilon_hist = np.mean(np_epsilon_histories, axis=0)
 
-    st.header("📈 Aggregated Profit Performance Results")
+    st.header("Aggregated Profit Performance Results")
     st.markdown(f"*Based on **{num_simulations_to_run}** simulation runs of **{num_impressions}** impressions each.*")
     st.markdown("---")
 
