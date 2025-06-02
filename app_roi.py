@@ -254,7 +254,7 @@ if st.sidebar.button("Run ROI Optimization Simulations"):
     st.pyplot(fig)
 
     st.markdown("---")
-    st.header("⚙️ Bandit Learning Details")
+    st.header("Bandit Learning Details")
 
     col_eps_decay_viz, col_impressions_chart_roi_viz = st.columns(2)
 

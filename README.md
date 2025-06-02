@@ -47,8 +47,6 @@ The profit-optimizing bandit consistently demonstrates superior financial outcom
 * The Epsilon-Greedy Bandit achieved an **average total profit of $[avg prfot over sims]**, representing an **[uplift % over sims] uplift** compared to the A/B test's average profit of $[a?b profit over sims].
 * The dashboard visualizes how the bandit quickly identifies and prioritizes the most profitable ad creative(s), even if they don't have the highest CTR, leading to a significantly better financial return.
 
-(picture of chart after sim)
-
 The "Average Impressions per Ad" chart confirms that the bandit intelligently allocates the budget towards the creatives that yield the highest profit contributions.
 
 ## 5. Tech Stack
